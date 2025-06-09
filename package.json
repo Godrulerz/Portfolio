@@ -11,6 +11,7 @@
   "author": "Ashish Kumar",
   "license": "ISC",
   "dependencies": {
+    "@vercel/analytics": "^1.5.0",
     "dotenv": "^16.5.0",
     "express": "^5.1.0"
   },
